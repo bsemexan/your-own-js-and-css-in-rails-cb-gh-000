@@ -1,3 +1,3 @@
-function hideWhenClicked(id){
+function hideWhenClicked(){
   document.getElementById(id).style.visibility = "hidden";
 }
