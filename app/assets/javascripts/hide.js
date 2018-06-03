@@ -1,4 +1,4 @@
 function hideWhenClicked(id){
-  document.getElementById(id).style.visibility = "hidden";
+  document.getElementById("#hide_this").style.visibility = "hidden";
 }
 $('#hide_this').click(hideWhenClicked);
