@@ -1,1 +1,3 @@
-function hideWhenClicked(){}
+function hideWhenClicked(id){
+  
+}
